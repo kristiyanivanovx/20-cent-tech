@@ -3,7 +3,7 @@
     "short_name": "20 cent tech",
     "scope": "http://web-20-cent-tech.herokuapp.com/",
     "start_url": "/index.html",
-    "display": "browser",
+    "display": "minimal-ui",
     "background_color": "#12b5ad",
     "theme_color": "#FFFFFF",
     "icons": [
