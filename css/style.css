@@ -26,6 +26,10 @@ body {
     font-size: 120%;
 }
 
+hr {
+    color: #084555;
+}
+
 /* nav, main and footer */
 
 nav {
@@ -40,6 +44,14 @@ main {
     background-image: linear-gradient(to top left, #19af96, #0d94b6);
     color: #fff;
     padding-bottom: 0.3rem;
+}
+
+.footer-link {
+    color: #fff
+}
+
+.footer-link:hover {
+    text-decoration: underline;
 }
 
 /* scrollbar */
