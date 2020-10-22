@@ -54,6 +54,20 @@ main {
     text-decoration: underline;
 }
 
+.colored-btn {
+    color: #0f5c58 !important;
+}
+
+/* auto width, better ux */
+ul.select-dropdown, ul.dropdown-content {
+    width: auto !important;
+}
+
+/* no wrap nav */
+li > span {
+    white-space: nowrap;
+}
+
 /* scrollbar */
 
 ::-webkit-scrollbar {
@@ -140,8 +154,8 @@ main {
     }
 }
 
-@media (max-width: 900px) { 
- .wrapperCustom {
+@media (max-width: 900px) {
+    .wrapperCustom {
         min-height: 110vh;
     }
 }
@@ -179,7 +193,7 @@ main {
     }
     h2 {
         font-size: 250% !important;
-    } 
+    }
     .card-title {
         font-size: 120% !important;
     }
@@ -203,7 +217,7 @@ main {
 @media (max-width: 350px) {
     h2 {
         font-size: 220% !important;
-    } 
+    }
     .card-title {
         font-size: 105% !important;
     }
@@ -212,7 +226,7 @@ main {
     }
 }
 
-@media (max-width: 330px) { 
+@media (max-width: 330px) {
     .card-title {
         font-size: 100% !important;
     }
