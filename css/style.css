@@ -58,6 +58,10 @@ main {
     color: #0f5c58 !important;
 }
 
+.btn-small {
+    background-color: #19afa2 !important;
+}
+
 /* auto width, better ux */
 ul.select-dropdown, ul.dropdown-content {
     width: auto !important;
