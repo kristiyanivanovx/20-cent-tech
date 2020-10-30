@@ -1,7 +1,7 @@
 # About the project
 ## 20 cent tech
 
-This is a website describes and shows my favorite technologies and specifically- those from the 20th century.
+This is a website which describes and shows my favorite technologies and specifically- those from the 20th century.
 The project was part of my entry tests that I did successfully and that led to my reception in Vratsa Software Community's coding bootcamp.
 The language used is the web app is Bulgarian.
 Initially I used Materialize for the design.
