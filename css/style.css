@@ -30,6 +30,10 @@ hr {
     color: #084555;
 }
 
+.home-underline:hover {
+    text-decoration: underline;
+}
+
 /* nav, main and footer */
 
 nav {
