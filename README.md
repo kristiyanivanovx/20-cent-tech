@@ -8,7 +8,7 @@ Initially I used Materialize for the design.
 Now I'm using React Bootstrap and custom CSS 3 for the design, React for the frontend, Node.js and Express for the backend.
 Database - MongoDB.
 Hosting - Heroku.
-Version control - GitHub. Working (hopefully) version - https://web-20-cent-tech-mern.herokuapp.com/
+Version control - GitHub. Working (hopefully) version - https://web-20-cent-tech.herokuapp.com/
 
 ## Sidenote:
 I used this kind of architecture - all of the html files being in the root folder - just to make the coding and linking all the pages, styles and js files easier.
