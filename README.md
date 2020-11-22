@@ -9,7 +9,3 @@ Now I'm using React Bootstrap and custom CSS 3 for the design, React for the fro
 Database - MongoDB.
 Hosting - Heroku.
 Version control - GitHub. Working (hopefully) version - https://web-20-cent-tech.herokuapp.com/
-
-## Sidenote:
-I used this kind of architecture - all of the html files being in the root folder - just to make the coding and linking all the pages, styles and js files easier.
-I know this isn't the best nor the cleanest solution, but in the end - it works.
